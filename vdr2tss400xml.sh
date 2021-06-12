@@ -5,7 +5,8 @@ COUNT=10
 EPAR=1
 IFS=":"
 rm chan_sat_ip.xml
-echo "<?xml version="1.0" encoding="UTF-8"?><channelTable msys="DVB-S">" >> chan_iptv.conf
+
+echo "<?xml version="1.0" encoding="UTF-8"?><channelTable msys="DVB-S">" >> chan_sat_ip.xml
 while read NAME FREQ PAR SRC SR VPID APID TPID CAID SID NID TID RID
 do
 if [ M$NAME == M ]
@@ -115,4 +116,4 @@ numer=$(("numer+1"))
 #exit
   
 done<chan_dvbs.conf
-echo "</channelTable>" >> chan_iptv.conf  
+echo "</channelTable>" >> chan_sat_ip.xml
