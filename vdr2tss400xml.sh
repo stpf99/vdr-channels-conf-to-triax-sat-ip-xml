@@ -11,7 +11,7 @@ do
 if [ M$NAME == M ]
 numer=$(("numer+1"))
     then
-    echo "<channel number=\""$numer"\"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>${NAME}</name><freq>${FREQ}</freq><pol>${POL}</pol><sr>${SR}</sr><src>${SRC}</src><pids>${VPID},${APID}</pids></channel>" >> chan_sat_ip.xml
+    echo "<channel number=\""$numer"\"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>${NAME}</name><freq>${FREQ}</freq><pol>${POL}</pol><sr>${SR}</sr><src>1</src><pids>${VPID},${APID}</pids></channel>" >> chan_sat_ip.xml
 	continue
     fi
 
