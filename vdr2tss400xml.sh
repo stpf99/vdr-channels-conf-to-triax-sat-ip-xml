@@ -4,7 +4,6 @@ IP=
 COUNT=10
 EPAR=1
 IFS=":"
-Q=""""
 rm chan_sat_ip.xml
 echo "<?xml version="1.0" encoding="UTF-8"?><channelTable msys="DVB-S">" >> chan_iptv.conf
 while read NAME FREQ PAR SRC SR VPID APID TPID CAID SID NID TID RID
