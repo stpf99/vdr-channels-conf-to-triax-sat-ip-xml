@@ -1,0 +1,21 @@
+<?xml version=1.0 encoding=UTF-8?><channelTable msys=DVB-S>
+<channel number="1"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>TVP INFO HD</name><freq>10719</freq><pol>v</pol><sr>27500</sr><src>1</src><pids>168,112</pids></channel>
+<channel number="2"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>STARS.TV</name><freq>10758</freq><pol>v</pol><sr>27499</sr><src>1</src><pids>291,547</pids></channel>
+<channel number="3"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>4Fun.TV</name><freq>10758</freq><pol>v</pol><sr>27499</sr><src>1</src><pids>265,521,777</pids></channel>
+<channel number="4"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>4Fun Kids</name><freq>10758</freq><pol>v</pol><sr>27499</sr><src>1</src><pids>276,532,788</pids></channel>
+<channel number="5"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>4Fun Dance</name><freq>10758</freq><pol>v</pol><sr>27499</sr><src>1</src><pids>280,536,792</pids></channel>
+<channel number="6"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>STARS.TV</name><freq>10758</freq><pol>v</pol><sr>27499</sr><src>1</src><pids>291,547</pids></channel>
+<channel number="7"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>Eska TV Extra</name><freq>10758</freq><pol>v</pol><sr>27499</sr><src>1</src><pids>337,593</pids></channel>
+<channel number="8"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>TVS</name><freq>10796</freq><pol>v</pol><sr>27500</sr><src>1</src><pids>163,92</pids></channel>
+<channel number="9"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>Red Carpet TV</name><freq>10834</freq><pol>v</pol><sr>27500</sr><src>1</src><pids>168,112</pids></channel>
+<channel number="10"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>TVP Polonia</name><freq>11075</freq><pol>v</pol><sr>30001</sr><src>1</src><pids>1510,1520,1530,1540</pids></channel>
+<channel number="11"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>TELE 5</name><freq>11662</freq><pol>v</pol><sr>27500</sr><src>1</src><pids>2011,2012</pids></channel>
+<channel number="12"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>Polonia 1</name><freq>11662</freq><pol>v</pol><sr>27500</sr><src>1</src><pids>2021,2022</pids></channel>
+<channel number="13"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>TBN Poland</name><freq>12303</freq><pol>v</pol><sr>27500</sr><src>1</src><pids>8007,8107</pids></channel>
+<channel number="14"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>TV Okazje</name><freq>12188</freq><pol>v</pol><sr>27500</sr><src>1</src><pids>265,266</pids></channel>
+<channel number="15"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>FOLX MUSIC TELEVISION</name><freq>11075</freq><pol>v</pol><sr>30001</sr><src>1</src><pids>1310,1320</pids></channel>
+<channel number="16"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>ONE MUSIC TELEVISION</name><freq>11075</freq><pol>v</pol><sr>30001</sr><src>1</src><pids>1710,1720</pids></channel>
+<channel number="17"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>ZWEI MUSIC TELEVISION</name><freq>11075</freq><pol>v</pol><sr>30001</sr><src>1</src><pids>1810,1820</pids></channel>
+<channel number="18"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>Fashion Tv</name><freq>11179</freq><pol>h</pol><sr>27500</sr><src>1</src><pids>1401,1402</pids></channel>
+<channel number="19"><tuneType>DVB-S-AUTO</tuneType><visible>true</visible><type>tv</type><name>TBN Europe HD</name><freq>12303</freq><pol>v</pol><sr>27500</sr><src>1</src><pids>8001,8101</pids></channel>
+</channelTable>
