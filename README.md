@@ -18,4 +18,4 @@ dvbv5-scan -a 1 -F -I DVBV5 -O VDR -l EXTENDED -o channels.conf HotBird-13.0E.co
 
 output file should be in current Dir named "chan_sat_ip.xml"                              //Playlist upload is done on "Upnp Settings" card.
 
-                                                                                          // login password for TRIAX TSS 400 : satip_admin
+                                                                                         
